@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1336315266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98c5fddcc35b6cded9d3bacfc637ffdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Imas/img2/btn/3.png
+- Assets/Imas/img2/btn/9.png
+- Assets/Imas/img2/btn/10.png
+- Assets/Imas/img2/btn/5.png
+- Assets/Imas/img2/btn/0.png
+- Assets/Imas/img2/btn/2.png
+- Assets/Imas/img2/btn/1.png
+- Assets/Imas/img2/btn/6.png
+- Assets/Imas/img2/btn/4.png
+- Assets/Imas/img2/btn/11.png
+- Assets/Imas/img2/btn/btn.png
+- Assets/Imas/img2/btn/8.png
+- Assets/Imas/img2/btn/7.png
+Dependencies: []

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>img2/exchange/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{305,347},{219,263}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{219,263}</string>
+			</dict>
+			<key>img2/exchange/111.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{626,942},{63,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,103}</string>
+			</dict>
+			<key>img2/exchange/bs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,586},{344,317}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{344,317}</string>
+			</dict>
+			<key>img2/exchange/dhjl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,347},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/dhjl1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{622,347},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/dhzx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,851},{165,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,44}</string>
+			</dict>
+			<key>img2/exchange/swjp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,803},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/swjp1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,855},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/tt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,686},{464,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{464,115}</string>
+			</dict>
+			<key>img2/exchange/tt1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,568},{464,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{464,116}</string>
+			</dict>
+			<key>img2/exchange/xia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,932},{239,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,72}</string>
+			</dict>
+			<key>img2/exchange/zy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{305,1},{344,317}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{344,317}</string>
+			</dict>
+			<key>img2/exchange/ljqw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{626,897},{162,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,43}</string>
+			</dict>
+			<key>img2/exchange/btnhuoqujq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,932},{205,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,73}</string>
+			</dict>
+			<key>img2/exchange/gb2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{731,942},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>img2/exchange/bld.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{302,583}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{302,583}</string>
+			</dict>
+			<key>img2/exchange/jqhq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,907},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/jqhq1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,959},{175,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,50}</string>
+			</dict>
+			<key>img2/exchange/qwbd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,803},{169,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,46}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>exchange.png</string>
+			<key>realTextureFileName</key>
+			<string>exchange.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

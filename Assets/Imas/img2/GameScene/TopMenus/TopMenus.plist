@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>img2/GameScene/TopMenus/2g.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{914,1},{25,15}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,20}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/3g.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{941,1},{24,15}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,20}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/4g.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{816,69},{26,15}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{30,20}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/happy_bg_battary_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{967,1},{26,13}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,19}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_baseScore.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{714,1},{312,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{312,38}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_baseScore1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,69},{99,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{99,24}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_battery_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,69},{34,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,19}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_battery_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1015,1},{7,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{7,13}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_chargeButton.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,1},{66,80}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_deposit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{836,1},{67,76}}</string>
+				<key>offset</key>
+				<string>{2,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_middle_Bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,1},{162,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,92}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_paihang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{634,170},{74,74}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_returnButton.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,95},{82,82}}</string>
+				<key>offset</key>
+				<string>{-3,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBar_setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{634,95},{73,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/topToolBarBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{547,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{547,97}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/wifi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,90},{26,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,20}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/wifi1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{995,1},{18,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,14}</string>
+			</dict>
+			<key>img2/GameScene/TopMenus/wifi2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1015,16},{8,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,7}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TopMenus.png</string>
+			<key>realTextureFileName</key>
+			<string>TopMenus.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

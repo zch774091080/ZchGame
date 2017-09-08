@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 71802867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ad54d86f5b3329cdc9086eae0863c2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d0fa09a968893dcbc71b4f9bf55e78b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/MyPrefab/feipai.prefab
+- Assets/MyPrefab/LobbyPanel.prefab
+- Assets/MyPrefab/pai.prefab
+- Assets/MyPrefab/GameSelectPanel.prefab
+- Assets/MyPrefab/LoginPanel.prefab
+- Assets/MyPrefab/GamePanel.prefab
+Dependencies:
+- D:/ULua/MyKaPaiGame/Assets/StreamingAssets/gamescene.unity3d
+- D:/ULua/MyKaPaiGame/Assets/StreamingAssets/btn.unity3d
+- D:/ULua/MyKaPaiGame/Assets/StreamingAssets/pukepaiss.unity3d

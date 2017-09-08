@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>img2/btn/_0000_X.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,83},{59,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,59}</string>
+			</dict>
+			<key>img2/btn/_0003_anniulan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,1},{191,60}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,63}</string>
+			</dict>
+			<key>img2/btn/_0007_huiannniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,1},{191,60}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,63}</string>
+			</dict>
+			<key>img2/btn/an.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{205,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,80}</string>
+			</dict>
+			<key>img2/btn/hn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{594,1},{191,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{191,60}</string>
+			</dict>
+			<key>img2/btn/huangniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{787,1},{191,60}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,63}</string>
+			</dict>
+			<key>img2/btn/jlsm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,83},{143,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,54}</string>
+			</dict>
+			<key>img2/btn/ljgm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,1},{132,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{132,37}</string>
+			</dict>
+			<key>img2/btn/lvniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,63},{191,60}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,64}</string>
+			</dict>
+			<key>img2/btn/queding.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,139},{64,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,34}</string>
+			</dict>
+			<key>img2/btn/queding_blue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,139},{68,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,36}</string>
+			</dict>
+			<key>img2/btn/quxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,63},{64,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,34}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>btn.png</string>
+			<key>realTextureFileName</key>
+			<string>btn.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

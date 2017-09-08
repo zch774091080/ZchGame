@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>img2/GameScene/labels/buchu_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,53},{100,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/bujiao_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,155},{98,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{98,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/buqiang_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,460},{101,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/cuowutishi_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{451,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{451,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/jiaodizhu_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,308},{150,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/meipaitishi_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{454,1},{401,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{401,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/meiyoutishi_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{857,1},{349,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{349,51}</string>
+			</dict>
+			<key>img2/GameScene/labels/mingpai_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,352},{101,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/notmingpai_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,155},{151,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/qiangdizhu_label.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,1},{152,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{152,50}</string>
+			</dict>
+			<key>img2/GameScene/labels/special_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{910,1},{351,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{351,30}</string>
+			</dict>
+			<key>img2/GameScene/labels/Text1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,183},{63,62}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>img2/GameScene/labels/Text2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,53},{63,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>img2/GameScene/labels/Text3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,255},{65,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>img2/GameScene/labels/Text4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,118},{63,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>img2/GameScene/labels/Text5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,563},{61,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>labels.png</string>
+			<key>realTextureFileName</key>
+			<string>labels.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

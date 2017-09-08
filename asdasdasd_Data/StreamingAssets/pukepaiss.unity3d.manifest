@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1556279311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd95f9dcd63b2eecf8f5877546573f91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Imas/pukepais/meihua_9_29.jpg
+- Assets/Imas/pukepais/meihua_4_49.jpg
+- Assets/Imas/pukepais/heitao_10_23.jpg
+- Assets/Imas/pukepais/hongtao_5_44.jpg
+- Assets/Imas/pukepais/wang_da_1.jpg
+- Assets/Imas/pukepais/heitao_3_51.jpg
+- Assets/Imas/pukepais/meihua_3_53.jpg
+- Assets/Imas/pukepais/meihua_12_17.jpg
+- Assets/Imas/pukepais/fangpian_6_42.jpg
+- Assets/Imas/pukepais/meihua_14_9.jpg
+- Assets/Imas/pukepais/heitao_11_19.jpg
+- Assets/Imas/pukepais/hongtao_6_40.jpg
+- Assets/Imas/pukepais/hongtao_15_4.jpg
+- Assets/Imas/pukepais/heitao_7_35.jpg
+- Assets/Imas/pukepais/hongtao_13_12.jpg
+- Assets/Imas/pukepais/hongtao_12_16.jpg
+- Assets/Imas/pukepais/meihua_8_33.jpg
+- Assets/Imas/pukepais/hongtao_3_52.jpg
+- Assets/Imas/pukepais/hongtao_14_8.jpg
+- Assets/Imas/pukepais/fangpian_14_10.jpg
+- Assets/Imas/pukepais/meihua_7_37.jpg
+- Assets/Imas/pukepais/meihua_5_45.jpg
+- Assets/Imas/pukepais/fangpian_11_22.jpg
+- Assets/Imas/pukepais/fangpian_3_54.jpg
+- Assets/Imas/pukepais/fangpian_8_34.jpg
+- Assets/Imas/pukepais/heitao_6_39.jpg
+- Assets/Imas/pukepais/heitao_9_27.jpg
+- Assets/Imas/pukepais/fangpian_9_30.jpg
+- Assets/Imas/pukepais/fangpian_4_50.jpg
+- Assets/Imas/pukepais/hongtao_7_36.jpg
+- Assets/Imas/pukepais/meihua_10_25.jpg
+- Assets/Imas/pukepais/meihua_15_5.jpg
+- Assets/Imas/pukepais/heitao_15_3.jpg
+- Assets/Imas/pukepais/hongtao_4_48.jpg
+- Assets/Imas/pukepais/fangpian_12_18.jpg
+- Assets/Imas/pukepais/hongtao_11_20.jpg
+- Assets/Imas/pukepais/heitao_8_31.jpg
+- Assets/Imas/pukepais/fangpian_7_38.jpg
+- Assets/Imas/pukepais/fangpian_15_6.jpg
+- Assets/Imas/pukepais/hongtao_10_24.jpg
+- Assets/Imas/pukepais/heitao_5_43.jpg
+- Assets/Imas/pukepais/fangpian_10_26.jpg
+- Assets/Imas/pukepais/heitao_13_11.jpg
+- Assets/Imas/pukepais/hongtao_9_28.jpg
+- Assets/Imas/pukepais/meihua_13_13.jpg
+- Assets/Imas/pukepais/fangpian_5_46.jpg
+- Assets/Imas/pukepais/meihua_6_41.jpg
+- Assets/Imas/pukepais/fangpian_13_14.jpg
+- Assets/Imas/pukepais/heitao_4_47.jpg
+- Assets/Imas/pukepais/hongtao_8_32.jpg
+- Assets/Imas/pukepais/meihua_11_21.jpg
+- Assets/Imas/pukepais/heitao_12_15.jpg
+- Assets/Imas/pukepais/heitao_14_7.jpg
+- Assets/Imas/pukepais/wang_xiao_2.jpg
+Dependencies: []

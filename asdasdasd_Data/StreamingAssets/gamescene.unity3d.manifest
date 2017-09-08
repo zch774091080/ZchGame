@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1570490878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db73ece8df7dd738294d41539295c2a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_05.png
+- Assets/Imas/img2/GameScene/gamechangjing/jin.png
+- Assets/Imas/img2/GameScene/gamechangjing/head_farmer_man.png
+- Assets/Imas/img2/GameScene/gamechangjing/2.png
+- Assets/Imas/img2/GameScene/gamechangjing/1.png
+- Assets/Imas/img2/GameScene/gamechangjing/tt.png
+- Assets/Imas/img2/GameScene/gamechangjing/wadou_bg.png
+- Assets/Imas/img2/GameScene/gamechangjing/head_farmer_man_fan.png
+- Assets/Imas/img2/GameScene/gamechangjing/01.png
+- Assets/Imas/img2/GameScene/gamechangjing/houtui.png
+- Assets/Imas/img2/GameScene/gamechangjing/clock02.png
+- Assets/Imas/img2/GameScene/gamechangjing/4.png
+- Assets/Imas/img2/GameScene/gamechangjing/head_lord_man_fan.png
+- Assets/Imas/img2/GameScene/gamechangjing/3.png
+- Assets/Imas/img2/GameScene/gamechangjing/lord_label.png
+- Assets/Imas/img2/GameScene/gamechangjing/playerInfo_propBg.png
+- Assets/Imas/img2/GameScene/gamechangjing/farmer_label.png
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_06.png
+- Assets/Imas/img2/GameScene/gamechangjing/head_lord_man.png
+- Assets/Imas/img2/GameScene/gamechangjing/paishu.png
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_03.png
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_01.png
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_02.png
+- Assets/Imas/img2/GameScene/gamechangjing/lottery_smoke_04.png
+Dependencies: []
